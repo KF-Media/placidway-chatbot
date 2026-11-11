@@ -1,0 +1,169 @@
+{
+  "source_urls": [
+    {
+      "id": 1,
+      "type": "Clinic profile",
+      "title": "Immunity Therapy Center (ITC) – Alternative Cancer Treatment",
+      "url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+      "location": "Tijuana, Mexico",
+      "doctor_in_charge": "Dr. Carlos Bautista (Founder & Medical Director)",
+      "overview": "Immunity Therapy Center (ITC) in Tijuana, Mexico specializes in customized, holistic, and non-toxic alternative cancer treatments. The facility provides over 30 individualized alternative and integrative therapies aimed at boosting natural immune defenses, attacking cancer cells, and maintaining high quality of life without aggressive chemotherapy side effects.",
+      "facilities": "State-of-the-art alternative clinic located minutes from the San Diego, California border. Equipped with specialized therapy suites, clinical lab facilities, on-site dining for medical nutrition, and dedicated nursing care with two nurses per station.",
+      "conditions_treated": "Various types and stages of cancer including adenocarcinoma, adrenal cancer, anal cancer, breast cancer, colorectal, prostate, lung, and stomach cancers, as well as chronic autoimmune and infectious conditions.",
+      "key_therapies": "Whole-body and localized hyperthermia, high-dose intravenous Vitamin C and mineral infusions, ozone therapy, oxygen therapy (hyperbaric oxygen), targeted immunotherapy protocols, sonodynamic therapy, and medical nutritional therapy."
+    },
+    {
+      "id": 2,
+      "type": "Treatment package",
+      "title": "Alternative Adenocarcinoma Cancer Treatment Package in Tijuana, Mexico by ITC",
+      "url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+      "location": "Tijuana, Mexico",
+      "target_condition": "Adenocarcinoma (Glandular cancers affecting lung, colon, breast, prostate, pancreas, or stomach)",
+      "duration": "Standard 3-week comprehensive program (additional weeks available as evaluated by medical staff)",
+      "pricing": {
+        "outpatient_cost": "$18,995 USD",
+        "inpatient_cost": "$30,000 USD",
+        "additional_week_cost": "$5,600 USD per week",
+        "currency": "USD",
+        "pricing_context": "Starting from $18,995 USD for outpatient 3-week program; $30,000 USD for 24/7 residential inpatient care. Extra weeks start from $5,600 USD/week if recommended."
+      },
+      "inclusions": [
+        "Initial comprehensive medical consultation & personalized treatment planning",
+        "Daily doctor consultations and continuous clinical monitoring during treatment days",
+        "Weekly blood work, lab testing, and diagnostic imaging (ultrasound/x-ray as indicated)",
+        "Daily customized non-toxic alternative therapies (hyperthermia, IV therapy, oxygen therapy)",
+        "Two meals daily (breakfast and lunch) prepared by clinical nutritionists for outpatients (full board for inpatients)",
+        "Dedicated nursing staff in treatment rooms",
+        "Free airport transfers to/from San Diego International Airport (SAN) or Tijuana International Airport (TIJ)",
+        "Daily local transportation between partner hotels and the ITC clinic"
+      ],
+      "exclusions": [
+        "International airfare and flight travel to San Diego or Tijuana",
+        "Hotel lodging for outpatients (ITC assists with discounted rates at vetted partner hotels)",
+        "Specialized take-home medications, post-program supplement supplies, or external third-party prescriptions"
+      ],
+      "recovery_time": "Because therapies are non-toxic, holistic, and minimally invasive, patients do not suffer conventional chemotherapy exhaustion. Patients generally feel stable during the 3-week protocol, with ongoing remote follow-up provided after returning home."
+    },
+    {
+      "id": 3,
+      "type": "Treatment package",
+      "title": "Alternative Adrenal Cancer Treatment Package in Tijuana, Mexico by ITC",
+      "url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+      "location": "Tijuana, Mexico",
+      "target_condition": "Adrenal Cancer & Endocrine Malignancies",
+      "duration": "Standard 3-week comprehensive program",
+      "pricing": {
+        "outpatient_cost": "$18,995 USD",
+        "inpatient_cost": "$30,000 USD",
+        "additional_week_cost": "$5,600 USD per week",
+        "currency": "USD",
+        "pricing_context": "Starting at $18,995 USD for outpatient care (3 weeks); $30,000 USD for inpatient care."
+      },
+      "inclusions": [
+        "Specialized oncology evaluation for adrenal gland tumors and hormonal balancing protocols",
+        "Daily personalized integrative therapies (hyperthermia, metabolic therapy, immune boosters)",
+        "Daily physician evaluations and continuous vital monitoring",
+        "Weekly laboratory blood panels",
+        "Two healthy, organic meals daily (breakfast and lunch)",
+        "Free pick-up and drop-off from San Diego Airport (SAN) or Tijuana Airport (TIJ)",
+        "Local clinic shuttle service"
+      ],
+      "exclusions": [
+        "Airfare",
+        "Hotel accommodation for outpatients",
+        "Emergency external hospital care or outside surgical interventions"
+      ],
+      "recovery_time": "3-week structured in-clinic regimen with daily progress tracking and long-term nutritional home maintenance."
+    },
+    {
+      "id": 4,
+      "type": "Treatment package",
+      "title": "Alternative Anal Cancer Treatment Package in Tijuana, Mexico by ITC",
+      "url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+      "location": "Tijuana, Mexico",
+      "target_condition": "Anal Cancer, Colorectal Malignancies & Squamous Cell Carcinomas",
+      "duration": "Standard 3-week regimen",
+      "pricing": {
+        "outpatient_cost": "$18,995 USD",
+        "inpatient_cost": "$30,000 USD",
+        "additional_week_cost": "$5,600 USD per week",
+        "currency": "USD",
+        "pricing_context": "Base outpatient package starts at $18,995 USD; full residential inpatient package starts at $30,000 USD."
+      },
+      "inclusions": [
+        "Detailed initial case review by Dr. Carlos Bautista and oncology medical staff",
+        "Tailored non-invasive alternative therapy combinations targeting localized tumor microenvironments",
+        "Daily doctor rounds and nursing care",
+        "Weekly diagnostics and blood monitoring",
+        "Nutritional support with 2 meals per day during clinic hours",
+        "Free round-trip airport shuttle (San Diego International / Tijuana International)",
+        "Local daily hotel transfer shuttle"
+      ],
+      "exclusions": [
+        "Airfare to/from Mexico/California",
+        "Outpatient hotel stay",
+        "Prescription medications taken after departing the clinic"
+      ],
+      "recovery_time": "Zero invasive surgical recovery downtime; designed to preserve sphincter function and maintain vitality during the 3-week cycle."
+    },
+    {
+      "id": 5,
+      "type": "Clinic videos",
+      "title": "ITC Tijuana Videos – Alternative Cancer Treatment",
+      "url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+      "location": "Tijuana, Mexico",
+      "video_content": "Official video library featuring walkthrough tours of the Immunity Therapy Center facility, detailed interviews with Dr. Carlos Bautista explaining the biological mechanisms of hyperthermia and metabolic cancer therapies, and verified international patient testimonials recounting their experiences, quality of life improvements, and treatment journeys at ITC in Tijuana."
+    },
+    {
+      "id": 6,
+      "type": "Price list",
+      "title": "ITC Immunity Therapy Center – Price List",
+      "url": "https://www.placidway.com/price-list/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+      "location": "Tijuana, Mexico",
+      "published_prices": [
+        {
+          "program": "3-Week Outpatient Alternative Cancer Program",
+          "price": "$18,995 USD",
+          "notes": "Includes daily therapies, doctor consultations, lab tests, 2 meals/day, and San Diego/Tijuana airport transfers."
+        },
+        {
+          "program": "3-Week Inpatient Alternative Cancer Program",
+          "price": "$30,000 USD",
+          "notes": "Includes 24/7 residential medical care, room & full board, all therapies, and private nursing."
+        },
+        {
+          "program": "Additional Treatment Week (Outpatient Extension)",
+          "price": "$5,600 USD",
+          "notes": "Priced per additional week if patient needs extended therapy upon doctor review."
+        }
+      ],
+      "payment_terms": "Wire transfer, cashier's check, credit card, or cash. Major health insurance rarely covers alternative protocols abroad."
+    },
+    {
+      "id": 7,
+      "type": "Price comparison",
+      "title": "Alternative Medicine Cost Abroad – Compare Prices 2026",
+      "url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+      "comparison_summary": "Comprehensive benchmark comparing alternative medicine and integrative oncology costs across global destinations. Typical alternative oncology regimens in the United States and private European clinics frequently range between $50,000 and $80,000+ USD without travel coordination. In contrast, verified medical travel centers in Tijuana, Mexico like Immunity Therapy Center offer comprehensive 3-week protocols starting at $18,995 USD, delivering significant financial savings (typically 50% to 70% lower) with equal or greater personalized clinical attention.",
+      "countries_listed": [
+        {
+          "country": "Mexico (Tijuana - ITC)",
+          "average_package": "$18,995 - $30,000 USD",
+          "status": "Verified on current PlacidWay pages"
+        },
+        {
+          "country": "United States (Private Integrative Clinics)",
+          "average_package": "$50,000 - $80,000+ USD",
+          "status": "General comparative benchmark"
+        }
+      ],
+      "note_on_unlisted_countries": "Pricing for alternative cancer treatments in other countries (such as Turkey, Germany, Thailand, or India) is not detailed on this specific ITC page set; patients inquiring about those destinations must request a custom comparative quote via PlacidWay."
+    }
+  ],
+  "faq_rules": {
+    "no_medical_advice": "The bot must NEVER provide a personal medical diagnosis or confirm if a treatment is safe for a specific condition (e.g. diabetes). Always advise speaking directly to a physician or Dr. Carlos Bautista's team.",
+    "no_direct_booking": "The bot CANNOT book next-day appointments directly. It must guide users to contact PlacidWay or submit a Free Quote request.",
+    "out_of_scope_policy": "Questions unrelated to PlacidWay medical treatments (e.g. weather, general tourism, sports) must be politely declined.",
+    "price_trick_defense": "If a user suggests an incorrect price (e.g. $50), the bot must firmly correct the misinformation citing the official $18,995 USD starting price."
+  }
+}
